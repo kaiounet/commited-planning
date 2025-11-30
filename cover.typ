@@ -10,11 +10,11 @@
   #v(1fr)
 
   #align(center)[
-    #text(size: 14pt)[Fiche Projet de Fin d'Études] \
+    #text(size: 14pt)[Fiche Projet de Fin d'Année] \
     #v(1em)
     #rect(inset: 1em, stroke: 1pt + black, radius: 5pt)[
       #text(size: 20pt, weight: "bold")[
-        CODE-CLASSROOM : PLATEFORME D’ÉVALUATION INTELLIGENTE
+        CommitEd : PLATEFORME D’ÉVALUATION INTELLIGENTE
       ]
     ]
     #v(1em)
