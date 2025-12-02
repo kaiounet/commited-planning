@@ -3,8 +3,5 @@
 // Include your tasks here in logical order
 #include "01-proposal.typ"
 
-// #pagebreak()
-// #include "02-analysis.typ"
-
-// #pagebreak()
-// #include "03-design.typ"
+#pagebreak()
+#include "02-tech-info.typ"
